@@ -638,7 +638,7 @@ plt.show()
 
 
 
-![png](Images/Tumor Response to Treatment.png)
+![Tumor Response to Treatment](Images/Tumor Response to Treatment.png)
 
 
 
@@ -1040,7 +1040,7 @@ plt.show()
 
 
 
-![png](Images/Metastatic Spread During Treatment.png)
+![Metastatic Spread During Treatment](Images/Metastatic Spread During Treatment.png)
 
 
 
@@ -1359,7 +1359,7 @@ plt.show()
 
 
 
-![png](Images/Survival During Treatment.png)
+![Survival During Treatment](Images/Survival During Treatment.png)
 
 
 
@@ -1517,6 +1517,6 @@ plt.show()
 
 
 
-![png](Images/Tumor Change Over 45 Day Treatment.png)
+![Tumor Change Over 45 Day Treatment](Images/Tumor Change Over 45 Day Treatment.png)
 
 
