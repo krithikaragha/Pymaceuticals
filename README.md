@@ -629,7 +629,7 @@ plt.legend()
 plt.grid()
 
 # Save the Figure
-plt.savefig('Images/Tumor Response to Treatment.jpg')
+plt.savefig('Images/tumor-response-to-treatment.png')
 
 # Show the Figure
 plt.show()
@@ -638,7 +638,7 @@ plt.show()
 
 
 
-![Tumor Response to Treatment](Images/Tumor Response to Treatment.png)
+![Tumor Response to Treatment](Output/output_8_0.png)
 
 
 
@@ -1029,7 +1029,7 @@ plt.xlabel('Time in Days')
 plt.ylabel('Tumor Volume (mm3)')
 
 # Save the Figure
-plt.savefig('Images/Metastatic Spread During Treatment.jpg')
+plt.savefig('Images/metastatic-spread-during-treatment.jpg')
 
 # Show the Figure
 plt.grid()
@@ -1040,7 +1040,7 @@ plt.show()
 
 
 
-![Metastatic Spread During Treatment](Images/Metastatic Spread During Treatment.png)
+![Metastatic Spread During Treatment](Output/output_14_0.png)
 
 
 
@@ -1350,7 +1350,7 @@ plt.grid()
 plt.legend()
 
 # Save the Figure
-plt.savefig('Images/Survival During Treatment.jpg')
+plt.savefig('Images/survival-during-treatment.png')
 
 # Show the Figure
 plt.show()
@@ -1359,7 +1359,7 @@ plt.show()
 
 
 
-![Survival During Treatment](Images/Survival During Treatment.png)
+![Survival During Treatment](Output/output_19_0.png)
 
 
 
@@ -1508,7 +1508,7 @@ for a,b in zip(y, height):
     plt.text(a - 0.10, b, str(b))
 
 # Save the Figure
-plt.savefig("Images/Tumor Change Over 45 Day Treatment.jpg")
+plt.savefig("Images/tumor-change-over-45-day-treatment.png")
 
 # Show the Figure
 plt.show()
@@ -1517,6 +1517,6 @@ plt.show()
 
 
 
-![Tumor Change Over 45 Day Treatment](Images/Tumor Change Over 45 Day Treatment.png)
+![Tumor Change Over 45 Day Treatment](Output/output_22_0.png)
 
 
